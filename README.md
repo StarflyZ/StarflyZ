@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
-![github-header-image](https://github.com/user-attachments/assets/4e4fd4e8-0535-497b-91ed-3aef50884614)
+![Header](https://github.com/user-attachments/assets/4e4fd4e8-0535-497b-91ed-3aef50884614)
 
 
